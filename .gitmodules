@@ -1,0 +1,3 @@
+[submodule "library/darkstar"]
+	path = library/darkstar
+	url = git@github.com:fkoppe/darkstar.git
